@@ -1,0 +1,4 @@
+newspaper3k==0.2.8
+googletrans==4.0.0-rc1
+nltk==3.6.7
+gradio==3.0.21
